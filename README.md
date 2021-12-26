@@ -6,7 +6,7 @@ You can create your portfolio by cloning this respository, and making necessary 
 Enter the following in your Git Bash: 
 
 ```
-git clone https://github.com/pra/portfolio.19
+git clone https://github.com/pratik-londhe4/Pratiks-Portfolio
 ```
 
 Then in `index.html` file add your name, profile picture, branch, year and github username and save it.
